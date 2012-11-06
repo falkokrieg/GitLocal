@@ -1,0 +1,2 @@
+serviceClass: prototest1.client.GreetingService
+path: 15ED07102951DB49223D74869EDF0BC3.gwt.rpc
